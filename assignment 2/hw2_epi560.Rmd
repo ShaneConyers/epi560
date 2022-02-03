@@ -9,7 +9,11 @@ latex_engine: pdflatex
 ---
 
 
+<<<<<<< Updated upstream
 ouhkjhkjh
+=======
+gshsgshsg
+>>>>>>> Stashed changes
 
 ** Question 1
 
